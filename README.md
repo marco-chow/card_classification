@@ -1,1 +1,2 @@
-# card_classification
+# Card_classification
+Classifying playing cards with a Pytorch model
